@@ -1,4 +1,4 @@
 # ApnaCollege-demo
 Lerning github
 <br>
-Auther Umer Shahzad
+Auther Umer Shahzad(Apna college)
